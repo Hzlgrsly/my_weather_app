@@ -59,6 +59,13 @@ li {
 
 }
 
+.btn-success {
+    background: #000000;
+    border: none;
+    font-size: 16px;
+
+}
+
 div.column {
   float: left;
   width: 120px;
