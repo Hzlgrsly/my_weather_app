@@ -49,8 +49,13 @@ li {
 
 .search-form {
   margin-bottom: 20px;
-  color: black;
+  
 }
+
+.submit {
+background-color: #222831; 
+border-color: #222831; 
+color: #222831; 
 
 div.column {
   float: left;
